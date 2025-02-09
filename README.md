@@ -34,7 +34,7 @@
 - [Павел Шерстнев](https://github.com/sherstpasha) — **Data Analyst;**  
 - [Владислава Жуковская](https://github.com/vlada2025) — **Дизайнер;**  
 - [Антон Михалев](https://github.com/asmikhalev) — **ML-инженер;**  
-- [Денис Фурдилов](https://github.com/hentaibaka) — **Data Scientist.**  
+- [Алина Нуриманова](https://github.com/ALENKOZAVR) — **Data Scientist.**  
 
 </td>
 <td align="center" width="50%">
